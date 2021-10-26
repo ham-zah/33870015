@@ -1,8 +1,9 @@
 ---
-title: "Parse HTML"
 layout: post
+title: "Parse HTML"
 permalink: /html-parse/
 categories: HTML
-tags: [lorem, ipsum]
+tags: [html, parse]
 ---
+
 Parse HTML Dibawah ini
