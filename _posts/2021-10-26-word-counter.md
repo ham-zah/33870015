@@ -6,4 +6,4 @@ tags: [word, counter]
 categories: Word
 ---
 
-Hitung Kata Dibawah ini
+Coming Soon!
