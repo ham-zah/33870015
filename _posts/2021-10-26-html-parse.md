@@ -8,5 +8,5 @@ categories: HTML
 
 Parse HTML Dibawah ini
 
-<iframe src="https://webtools.my.id/embed/html-parse.html" height="315" allowfullscreen="" frameborder="0">
+<iframe src="https://webtools.my.id/embed/html-parse.html" height="380" width="100%" allowfullscreen="" frameborder="0">
 </iframe>
