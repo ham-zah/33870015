@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /min.css/
-title: "Parse HTML"
+title: "CSS Minifier"
 tags: [css, parse]
 categories: CSS
 ---
