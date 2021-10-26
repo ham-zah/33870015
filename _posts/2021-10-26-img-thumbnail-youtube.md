@@ -6,4 +6,4 @@ tags: [thumbnail, img]
 categories: IMG
 ---
 
-Coming soon!
+Coming Soon!
