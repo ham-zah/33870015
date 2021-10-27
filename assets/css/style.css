@@ -73,7 +73,7 @@ body{
   background: var(--bg-hover-color);
 }
 
-.post-list .post-title{width: 80%; color: var(--primary-font-color); font-weight: 500;}
+.post-list .post-title{width: 100%; color: var(--primary-font-color); font-weight: 500;}
 .post-list .post-date{width: 20%; text-align: right;}
 
 .post-header{
