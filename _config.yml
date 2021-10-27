@@ -82,3 +82,11 @@ defaults:
 relative_links:
   enabled:     true
   collections: false
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
