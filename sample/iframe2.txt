@@ -1,1 +1,0 @@
-<iframe loading="lazy" src="https://webtools.my.id/embed/FILENAME.html" title="TITLE" height="485" width="100%" scrolling="no" frameborder="0"></iframe>
