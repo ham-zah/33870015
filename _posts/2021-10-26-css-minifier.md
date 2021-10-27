@@ -7,3 +7,5 @@ categories: CSS
 ---
 
 Coming Soon!
+
+<iframe src="https://webtools.my.id/embed/css-min2.html" height="380" width="100%" allowfullscreen="" frameborder="0"> </iframe>
