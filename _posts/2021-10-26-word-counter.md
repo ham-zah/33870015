@@ -7,3 +7,5 @@ categories: Word
 ---
 
 Coming Soon!
+
+<iframe loading="lazy" src="/embed/word-counter2.html" title="Word Counter" height="485" width="100%" frameborder="0" scrolling="no"></iframe>
