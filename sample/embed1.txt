@@ -1,0 +1,17 @@
+---
+layout: embed
+permalink: /embed/NAME.html
+title: "TITLE"
+---
+
+<style>
+
+</style>
+
+{% include embedbody.html %}
+
+/* HTML Code */
+
+<script>
+
+</script>
