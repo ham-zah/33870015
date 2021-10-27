@@ -163,7 +163,24 @@ textarea:focus {
 }
 </style>
 
-
+<div id="cssminifier">
+  <textarea autofocus="" id="cssField" placeholder="Paste your CSS code here..." spellcheck="false"></textarea> <br/>
+  <div class="button-group">
+    <div class="box">
+      <input class="option-input checkbox opt1" id="stripAllComment" type="checkbox"/> <br/>
+      <label for="stripAllComment">Strip all comments</label> <br/>
+      <input class="option-input checkbox opt2" id="superCompact" type="checkbox"/> <br/>
+      <label for="superCompact">Super compact</label> <br/>
+      <input class="option-input checkbox opt3" id="betterIndentation" type="checkbox"/> <br/>
+      <label for="betterIndentation">Keep indentation</label> <br/>
+      <input checked="" class="option-input checkbox opt4" id="keepLastComma" type="checkbox"/> <br/>
+      <label for="keepLastComma">Remove the last semicolon</label> <br/>
+    </div>
+    <button onclick='compressCSS("cssField");'>Compress CSS</button> <br/>
+    <button onclick='clearField("cssField");'>Clear Field</button> <br/>
+    <button onclick='selectAll("cssField");'>Select All</button> <br/>
+  </div>
+</div>
 
 <script>
 function get(e) {
