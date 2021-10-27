@@ -59,7 +59,10 @@ collections:
   posts:
     output: true
     permalink: /:slug
-  
+  embed:
+    output: true
+    permalink: /embed/:output_ext
+
 defaults:
   -
     scope:
