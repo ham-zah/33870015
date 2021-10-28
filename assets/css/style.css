@@ -29,7 +29,9 @@
 .profile-about h1 {
   
   }
-
+.profile-about p {
+  padding:15px;
+  }
 
 /* end custom */
 
