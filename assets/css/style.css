@@ -24,7 +24,8 @@
   cursor:none
 }
 .nav1 li a:hover, .post-container li a:hover {
-  text-decoration: underline
+  text-decoration: underline;
+  cursor:none
 }
 
 /* Header */
