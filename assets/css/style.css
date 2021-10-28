@@ -1,7 +1,27 @@
 @import url('/gs.css');
 
 /* Custom */
-.nav1 ul{list-style-type:none;margin:0;padding:0;overflow:hidden;display:flex;justify-content:center}.nav1 li{background-color:#0f9d58;float:left}.nav1 li a{display:block;color:#fff;text-align:center;padding:14px 16px;text-decoration:none}.nav1 li a:hover{text-decoration:underline}
+.nav1 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.nav1 li {
+  background-color: #0f9d58;
+  /* float: left */
+}
+.nav1 li a {
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none
+}
+.nav1 li a:hover {
+  text-decoration: underline
+}
+/* end c */
 
 :root {
     --bg-color: #fafafa;
