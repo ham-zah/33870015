@@ -61,7 +61,7 @@ collections:
     permalink: /:slug
   embed:
     output: true
-    permalink: /embed/:output_ext
+    permalink: /embed/:title
 
 defaults:
   -
