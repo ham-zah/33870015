@@ -24,7 +24,14 @@
 .nav1 li a:hover, .post-container li a:hover {
   text-decoration: underline
 }
-/* end c */
+
+/* Header */
+.profile-about h1 {
+  
+  }
+
+
+/* end custom */
 
 :root {
     --bg-color: #fafafa;
@@ -177,7 +184,7 @@ body{
   flex-wrap: wrap; 
   justify-content: space-between; 
   align-items: center;
-  padding: 5px 10px;
+  padding: 15px 10px 0;
   margin-bottom: 20px;
 }
 .profile-image-container{width: 40%;}
