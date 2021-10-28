@@ -12,7 +12,8 @@
 }
 .nav1 li {
   background-color: #0f9d58;
-  float: left
+  float: left;
+  cursor:none
 }
 .nav1 li a {
   display: block;
@@ -20,9 +21,6 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none
-}
-.nav1 li a:hover{
-  cursor:none
 }
 .nav1 li a:hover, .post-container li a:hover {
   text-decoration: underline
