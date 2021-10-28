@@ -9,6 +9,7 @@
   overflow: hidden;
   display:flex;
   justify-content:center
+  cursor:none
 }
 .nav1 li {
   background-color: #0f9d58;
