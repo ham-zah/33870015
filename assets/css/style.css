@@ -6,6 +6,8 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
+  display:flex;
+  justify-content:center
 }
 .nav1 li {
   background-color: #0f9d58;
