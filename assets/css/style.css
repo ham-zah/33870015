@@ -13,7 +13,6 @@
 .nav1 li {
   background-color: #0f9d58;
   float: left;
-  /*cursor:none*/
 }
 .nav1 li a {
   display: block;
@@ -25,7 +24,6 @@
 }
 .nav1 li a:hover, .post-container li a:hover {
   text-decoration: underline;
-  /*cursor:none*/
 }
 
 /* Header */
