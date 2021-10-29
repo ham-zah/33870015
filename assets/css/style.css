@@ -38,13 +38,16 @@
   display: block;
   color: #fff;
   text-align: center;
-  padding: 14px 16px;
+  padding: 12px 12px;
   text-decoration: none;
   cursor:none
 }
 .nav1 li a:hover, .post-container li a:hover {
   text-decoration: underline;
 }
+
+.nav1_embed:after{content:'';display:inline-block;background-position:center;background-repeat:no-repeat}
+.nav1_embed:after{background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M14.6,16.6L19.2,12L14.6,7.4L16,6L22,12L16,18L14.6,16.6M9.4,16.6L4.8,12L9.4,7.4L8,6L2,12L8,18L9.4,16.6Z' fill='%23fff'/%3E%3C/svg%3E");width:20px;height:20px;margin:0 0 0 5px;vertical-align:-5px;}
 
 /* Header */
 .profile-about h1 {
