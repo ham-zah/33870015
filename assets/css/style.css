@@ -1,6 +1,26 @@
 @import url('/gs.css');
 
 /* Custom */
+.m0{margin:0}
+.p0{padding:0}
+.txtcenter{text-align:center}
+
+.head1 {
+  }
+.head1 img {
+  width: 200px;
+  height: auto;
+  padding: 5px;
+  pointer-events: none;
+  }
+.head1 h1 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  margin:0;
+  padding:0;
+  }
+
 .nav1 ul {
   text-align:center;
   list-style-type: none;
