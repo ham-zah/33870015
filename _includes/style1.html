@@ -2,3 +2,54 @@
 .m0{margin:0}
 .p0{padding:0}
 .txtcenter{text-align:center}
+
+/* ANIMATION */
+@keyframes too0{to{opacity:0}}
+@keyframes too1{to{opacity:1}}
+@keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
+
+/* Load Container */
+.l_0 {
+  position: relative;
+  text-align: center
+}
+/* Load Target */
+.l_1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+/* SVG Style */
+.svg0 {
+  content: '';
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat
+}
+
+/* head1 */
+.head1 {
+  background: #fafafa;
+  border: 1px dashed #dadada;
+  margin: 0 0 15px
+}
+.head1 img {
+  width: 200px;
+  height: auto;
+  padding: 5px 5px 0;
+  pointer-events: none;
+  opacity: 0;
+  animation: too1 5s forwards
+}
+.head1 h1 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0;
+  padding: 0
+}
+
+
+
+
