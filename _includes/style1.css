@@ -36,8 +36,8 @@ l_y = Yellow
 
 /* head1 */
 .head1 {
-  background: #fafafa;
-  border: 1px dashed #dadada;
+  background: var(--bg-color);
+  border: 1px dashed var(--border-color);
   margin: 0 0 15px
 }
 .head1 img {
